@@ -1,8 +1,21 @@
   ![](https://komarev.com/ghpvc/?username=Akshat584&style=for-the-badge)
 <div align="center">
 
-# 💫 About Me:
-It's Akshat Pal Suryavnshi. A Data Analyst which is very fond of solving problems . i have done my degree in Bachelors in computer application form Shri Ram Swaroop Memorial University
+</div>  
+
+### <div align="center">I'm Akshat, a data analyst who turns raw data into meaningful insights.🚀</div> 
+
+
+<br/> 
+
+- 🔭 I'm mostly interested in making data tell compelling stories
+
+
+  
+- ⚡ Fun fact: I love finding patterns in the chaos  
+
+
+<br/>
 
 
 ## 🌐 Socials:
